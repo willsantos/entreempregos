@@ -7,3 +7,6 @@
 [submodule "entreempregos_front"]
 	path = entreempregos_front
 	url = git@github.com:willsantos/entreempregos_front.git
+[submodule "entreempregos_admin"]
+	path = entreempregos_admin
+	url = git@github.com:willsantos/entreempregos_admin.git
