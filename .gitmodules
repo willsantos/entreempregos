@@ -1,3 +1,6 @@
 [submodule "entreempregos_back"]
 	path = entreempregos_back
 	url = git@github.com:willsantos/entreempregos_back.git
+[submodule "entreempregos_site"]
+	path = entreempregos_site
+	url = git@github.com:willsantos/entreempregos_site.git
